@@ -1,2 +1,2 @@
-# Guide-complet-de-test-sur-le-Web-Astuces-et-sc-narios-de-test-d-application-Web-
+# Guide complet de test sur le Web Astuces et scénarios de test d'application Web
 Dans cet article, nous allons apprendre le test d'applications Web avec des cas de test pour tester un site Web. J'aime toujours partager des connaissances pratiques, qui dans un cas peut être utile à plusieurs utilisateurs dans leur vie professionnelle. C'est un article assez long, alors asseyez-vous et détendez-vous pour en tirer le maximum.
