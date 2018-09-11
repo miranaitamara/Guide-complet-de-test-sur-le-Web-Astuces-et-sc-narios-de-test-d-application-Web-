@@ -1,2 +1,5 @@
-# Guide complet de test sur le Web Astuces et scénarios de test d'application Web
-Dans cet article, nous allons apprendre le test d'applications Web avec des cas de test pour tester un site Web. J'aime toujours partager des connaissances pratiques, qui dans un cas peut être utile à plusieurs utilisateurs dans leur vie professionnelle. C'est un article assez long, alors asseyez-vous et détendez-vous pour en tirer le maximum.
+# Web Testing Complete Guide (Web Application Testing Tips and Scenarios)
+
+In this article, we will learn web application testing with test cases for testing a website.
+
+I always love to share practical knowledge, which in a case can be useful to several users in their career life. This is quite a lengthy article, so sit back and get relaxed to get most out of it
